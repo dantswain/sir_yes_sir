@@ -1,6 +1,6 @@
 # SIR Model Jupyter Notebooks
 
-The most informative notebook here is <explore_r0.ipynb>
+The most informative notebook here is [explore_r0.ipynb](explore_r0.ipynb)
 
 To run these yourself, you'll need Python 3.6.7 (other versions of Python 3.6+
 will probably work, just change `.python-version`) and pip.  You should be able
